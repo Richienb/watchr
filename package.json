@@ -103,7 +103,7 @@
     "ignorefs": "^1.1.1",
     "safefs": "^4.1.0",
     "scandirectory": "^3.0.1",
-    "taskgroup": "^5.0.1"
+    "taskgroup": "^5.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
