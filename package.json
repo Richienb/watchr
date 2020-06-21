@@ -99,7 +99,7 @@
   "dependencies": {
     "eachr": "^3.2.0",
     "editions": "^2.1.0",
-    "extendr": "^3.2.2",
+    "extendr": "^3.5.0",
     "ignorefs": "^1.1.1",
     "safefs": "^4.1.0",
     "scandirectory": "^3.0.1",
