@@ -101,7 +101,7 @@
     "editions": "^2.1.0",
     "extendr": "^3.2.2",
     "ignorefs": "^1.1.1",
-    "safefs": "^4.1.0",
+    "safefs": "^4.2.0",
     "scandirectory": "^3.0.1",
     "taskgroup": "^5.0.1"
   },
